@@ -1,0 +1,9 @@
+menu navbar
+foto
+nama
+skill/kemampuan
+kontak(bagian form)
+media sosial
+galery foto
+portofolio
+footer
